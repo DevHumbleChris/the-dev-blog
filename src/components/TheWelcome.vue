@@ -124,14 +124,14 @@ const expanded = ref(false);
             <h1
               class="text-3xl font-bold text-gray-900 sm:text-4xl lg:text-5xl"
             >
-              Community of designers
+              The Developer Blog Community
               <span class="inline"
                 ><img
                   class="inline w-auto h-8 sm:h-10 lg:h-12"
                   src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/4/shape-1.svg"
                   alt="shape-1"
               /></span>
-              made by designers
+              made by developers
               <span class="inline"
                 ><img
                   class="inline w-auto h-8 sm:h-10 lg:h-11"
@@ -140,8 +140,8 @@ const expanded = ref(false);
               /></span>
             </h1>
             <p class="mt-6 text-base font-normal leading-7 text-gray-900">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vehicula
-              massa in enim luctus. Rutrum arcu.
+              From writing codes on the machine to sharing stories, thinking and
+              expertise on different topics.
             </p>
             <svg
               class="w-auto h-4 mt-8 text-gray-300"
